@@ -1,6 +1,6 @@
 # virus_seq
 Repository for Virus Sequencing Projects
 
-- DENV_multiplex_tiling_PCR: Dengue virus reference genomes and primers
+- Dengue_Virus/DENV_multiplex_tiling_PCR: Dengue virus reference genomes and primers
 - ...
 - ...
